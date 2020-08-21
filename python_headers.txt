@@ -1,0 +1,31 @@
+FOR PYTHON FILES
+"""S E A R C H ."""
+
+import os
+import ast
+
+# !/usr/bin/env python
+#  -*- coding: utf-8 -*-
+"""{'Author': 'Florian Zah',
+'Contact': '',
+'Copyright': '',
+'Credits': '',
+'Date': '',
+'Deprecated': '',
+'Description': '',
+'Last Modification': '',
+'Licence': '',
+'Maintainer': '',
+'Status': '',
+'Tags': [],
+'Title': 'TITLE',
+'Version': ''}.
+"""
+
+
+
+FOR ZAH FILES SERMON
+"""{'Author': '', 'Date': '', 'Description': '', 'Last Modification': '', 'Tags': [], 'Text': '', 'Title': '', 'Type': {'sarbatori': 'sarbatoarea', 'tematice': 'tema', 'text': 'textul', 'studiu': 'subiectul'}}"""
+
+FOR ZAH FILES PYTHON TUTORIAL
+"""{'Author': 'Florian Zah', 'Date': '', 'Description': '', 'Last Modification': '', 'Tags': [], 'Title': ''}"""
